@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "jsc-android": "^236355.1.1",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "mobx": "^5.8.0",
     "mobx-react": "^5.4.3",
     "react": "16.6.3",
